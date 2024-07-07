@@ -3,7 +3,7 @@ name: Matrix. Check remote hosts and push reports
 on:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   prepare:
